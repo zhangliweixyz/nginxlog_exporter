@@ -7,7 +7,7 @@ A exporter to parse Nginx access log for prometheus metrics.
 - Status code can be mergeable.
 
 ## Installation
-1. go get github.com/zhangliweixyz/nginxlog_exporter
+1. go get `github.com/zhangliweixyz/nginxlog_exporter`
 2. Or use [binary](https://github.com/zhangliweixyz/nginxlog_exporter/releases) release
 
 ## Usage
